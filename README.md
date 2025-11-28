@@ -1,3 +1,9 @@
+## Note
+**For Interactive notebook & full analysis (plots + code) are hosted on Kaggle.**  
+Open the live Kaggle notebook to see interactive Plotly charts and run cells:
+https://www.kaggle.com/code/mohammadelfar/fresco-product-return-prediction-97acc-87recall
+
+🔗 **Kaggle Notebook (interactive):**  
 # Fresco Retail Product Return Prediction and Analytics App
 
 ### Project Overview
